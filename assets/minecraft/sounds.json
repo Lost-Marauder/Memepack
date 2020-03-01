@@ -3415,7 +3415,8 @@
   },
   "entity.egg.throw": {
     "sounds": [
-      "random/bow"
+      "random/oof1",
+      "random/oof2"
     ],
     "subtitle": "subtitles.entity.egg.throw"
   },
