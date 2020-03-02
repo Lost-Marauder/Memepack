@@ -9211,6 +9211,10 @@
       {
         "name": "records/11",
         "stream": true
+      },
+      {
+        "name": "records/pants",
+        "stream": true
       }
     ]
   },
@@ -9252,10 +9256,16 @@
         "name": "records/far",
         "stream": true
       },
-      { "name": "records/nineties",
+      { 
+        "name": "records/nineties",
         "stream": true
       },
-      { "name": "records/dejavu",
+      { 
+        "name": "records/dejavu",
+        "stream": true
+      },
+      {
+        "name": "records/thomas",
         "stream": true
       }
     ]

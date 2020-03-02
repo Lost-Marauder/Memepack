@@ -4,13 +4,12 @@ Music Discs:
 13 --> The DK Trap
 cat --> Hooked On A Feeling but it's just Ooga Chaka for 30min
 blocks --> Home Depot Theme but Bass Boosted
-far --> Minecart Mixtape (Gas Gas Gas/Running In The 90s/Deja Vu)
+far --> Minecart Mixtape (Gas Gas Gas/Running In The 90s/Deja Vu/Thomas The Tank Engine Theme)
 mellohi --> Monsters Inc Theme Earrape Version
 stal --> SCOTLAND FOREVER
 strad --> Country Toads
 ward --> ward but it's a rickroll
-wait --> No Pants Dance but the pitch raises every time it says dance
-11 --> Prismatic Core but bass boosted to hell
+11 --> TWRP Mixtape (Prismatic Core but bass boosted to hell/No Pants Dance but the pitch raises every time it says dance)
 
 Sounds:
 Added 'man laughing in dark' as cave noise
@@ -25,6 +24,7 @@ Pigs have crippling depression
 Bows go pew pew like they always should have
 Witches would like to know what you're doing in their swamp
 Eggs go oof sometimes
+James Charles Ghast screams
 
 Textures and Names:
 Podzol --> Runie Dirt
@@ -56,6 +56,10 @@ Poppy --> Poopy
 Orange Tulip --> Bitch Tulip
 Iron Golem --> Ricardo
   They're Ricardo. Doing their American duties.
+Ghast --> James Charles
+  Easily the worst thing I've done to date.
+Birch Door (Top)
+  The spirit of Dickbutt imbues it.
 
 Other:
 Some menu buttons changed
