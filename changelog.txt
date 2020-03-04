@@ -62,8 +62,12 @@ Birch Door (Top)
   The spirit of Dickbutt imbues it.
 Iron Axe --> A Herring
   You must cut down the mightiest tree.
+Furnace --> Hot Pocket
+Blast Furnace --> Blast Pocket
+Smoker --> Meat Pocket
 
 Other:
 Some menu buttons changed
 Some splashes added
 Some messages changed
+Some subtitles changed
