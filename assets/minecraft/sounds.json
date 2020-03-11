@@ -2977,7 +2977,8 @@
     "sounds": [
       "mob/chicken/say1",
       "mob/chicken/say2",
-      "mob/chicken/say3"
+      "mob/chicken/say3",
+      "mob/chicken/quack"
     ],
     "subtitle": "subtitles.entity.chicken.ambient"
   },
@@ -3079,7 +3080,8 @@
     "sounds": [
       "entity/cow/milk1",
       "entity/cow/milk2",
-      "entity/cow/milk3"
+      "entity/cow/milk3",
+      "entity/cow/bruh"
     ],
     "subtitle": "subtitles.entity.cow.milk"
   },
